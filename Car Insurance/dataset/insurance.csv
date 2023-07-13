@@ -1,0 +1,858 @@
+Make,Model,Variant,Age of Vehicle,Gender,Location,Population Density,Fuel Type,Airbags,Driving Experience,Past Accidents,Is Claim
+Toyota,Prius,LE,3 years,Female,Rural,Low,Petrol-Hybrid,Yes,4 years,No,No
+Bentley,Bentayga,Speed,3 years,Male,Rural,Low,Petrol,Yes,10 years,No,No
+Honda,Ridgeline,Black Edition,4 years,Female,Rural,Low,Petrol,Yes,5 years,No,No
+Ford,Explorer,XLT,7 years,Male,Urban,High,Diesel,No,14 years,No,Yes
+Dodge,Grand Caravan,SXT,6 years,Female,Urban,High,Petrol-Hybrid,Yes,10 years,No,No
+Ford,F-150,STX,7 years,Female,Rural,Low,Diesel,Yes,11 years,No,No
+Audi,A3,1.4T,1 year,Female,Rural,Low,Petrol,Yes,1 year,No,No
+Maruti Suzuki,Baleno,ZDi,7 years,Female,Urban,High,Petrol,Yes,15 years,Yes,No
+Volkswagen,Tiguan,,4 years,Male,Urban,High,Petrol-Hybrid,Yes,7 years,No,No
+Toyota,Corolla,SE,3 years,Female,Rural,Low,Petrol,Yes,6 years,No,No
+Ford,Fiesta,S,2 years,Male,Rural,Low,Diesel,No,3 years,No,No
+Lexus,RX,450h,7 years,Female,Urban,High,Petrol-Hybrid,No,1 year,No,No
+Chevrolet,Silverado,High Country,2 years,Female,Urban,High,Petrol,Yes,5 years,No,No
+Rolls-Royce,Cullinan,Black Badge,2 years,Female,Suburban,Medium,Petrol,Yes,5 years,No,No
+Ford,Focus,SE,2 years,Male,Rural,Low,Petrol,Yes,2 years,No,No
+Ford,Transit,Passenger,6 years,Male,Urban,High,Petrol,Yes,5 years,No,No
+Lincoln,Navigator,Black Label,4 years,Male,Rural,Low,Petrol,Yes,10 years,No,No
+BMW,3 Series,320i,2 years,Female,Rural,Low,Petrol,Yes,3 years,No,No
+Chevrolet,Trax,LT,2 years,Female,Urban,Medium,Petrol,No,1 year,No,Yes
+Maruti Suzuki,Alto 800,LX,-1 year,Male,Urban,Low,Petrol,Yes,90 years,Yes,Yes
+Ford,Fiesta,SE,1 year,Female,Urban,Medium,Petrol,No,1 year,No,No
+Honda,Pilot,LX,7 years,Male,Rural,Low,Petrol,Yes,15 years,No,No
+Honda,Civic,LX,5 years,Female,Rural,Low,Petrol,Yes,9 years,No,No
+BMW,3 Series,328i,3 years,,Urban,Medium,Diesel,Yes,7 years,No,No
+Chevrolet,Bolt,Premier,2 years,Female,Urban,High,Electric,Yes,8 years,No,No
+Honda,Insight,Touring,7 years,Female,Urban,High,Petrol-Hybrid,No,15 years,Yes,No
+Dodge,Journey,GT,1 year,Female,Urban,Medium,Petrol,Yes,1 year,No,No
+Force Motors,Tempo Traveller,Traveller,5 years,Male,Rural,Low,Diesel,Yes,10 years,No,No
+Tesla,Roadster,2023,4 years,Female,Rural,Low,Petrol-Hybrid,Yes,5 years,No,No
+Volkswagen,Golf,Trendline,3 years,Female,Rural,Low,Petrol,Yes,4 years,No,No
+Kia,Forte,LX,6 years,Male,Rural,Low,Petrol,Yes,5 years,No,No
+Tata,Nexon,XZ+,4 years,Female,Urban,High,Petrol,Yes,10 years,No,No
+Toyota,Prius,LE,6 years,Male,Rural,Low,Diesel,No,11 years,No,No
+Toyota,Rav4,LE,4 years,Female,Urban,Medium,Petrol-Hybrid,Yes,7 years,No,No
+Toyota,Tacoma,SR,6 years,Male,Rural,Low,Petrol,Yes,10 years,No,No
+Toyota,Prius,LE,5 years,Male,Rural,Low,Petrol-Hybrid,Yes,10 years,No,No
+Ford,F-150,XLT,6 years,Female,Urban,High,Petrol,Yes,15 years,Yes,No
+Chevrolet,Colorado,ZR2,3 years,Male,Suburban,Medium,Petrol,Yes,10 years,No,No
+Ford,Bronco,Wildtrak,2 years,Male,Suburban,Medium,Petrol,Yes,5 years,No,No
+Honda,Pilot,EX-L,6 years,Male,Urban,Medium,Diesel,No,11 years,No,No
+BMW,X5,M50i,5 years,Male,Suburban,Medium,Petrol,Yes,10 years,No,No
+Mazda,CX-5,Touring,6 years,Male,Rural,Low,Petrol,Yes,5 years,No,No
+Volvo,S60,T6,5 years,Female,Rural,Low,Petrol,Yes,15 years,No,No
+Porsche,911,Carrera S,8 years,Male,Urban,High,Petrol,Yes,15 years,No,No
+Toyota,Fortuner,G,6 years,Male,Urban,Medium,Diesel,Yes,9 years,No,No
+Toyota,Prius,LE,4 years,Male,Urban,High,Petrol-Hybrid,Yes,10 years,No,No
+Audi,R8,V10,5 years,Male,Urban,Medium,Diesel,Yes,5 years,No,No
+Mazda,M3,CX-5,3 years,Male,Rural,Low,Petrol,Yes,10 years,No,No
+Nissan,Sentra,SV,7 years,Male,Rural,Low,Petrol,Yes,5 years,No,No
+Tesla,Model X,Long Range,4 years,Female,Suburban,High,Electric,Yes,6 years,No,No
+Mazda,MX-5,RF,2 years,Female,Urban,Medium,Petrol,No,1 year,No,Yes
+Renault,Kwid,RXT,4 years,Female,Urban,Medium,Petrol,No,1 year,No,Yes
+Ford,F-150,XLT,4 years,Male,Suburban,Medium,Petrol,Yes,7 years,Yes,Yes
+Mahindra,Bolero,SLX,6 years,Male,Rural,Low,Petrol,Yes,5 years,No,No
+Audi,Q8,55 TFSI,3 years,Male,Rural,Low,Petrol,Yes,10 years,No,No
+Toyota,Hilux,SR5,8 years,Female,Rural,Low,Diesel,Yes,12 years,No,No
+BMW,2 Series,228i,3 years,Male,Urban,Medium,Diesel,Yes,8 years,No,No
+BMW,7 Series,740Li,4 years,Male,Urban,Low,Diesel,Yes,9 years,No,No
+GMC,Canyon,SLE,3 years,Male,Rural,Low,Petrol,No,10 years,No,No
+Nissan,Sentra,SV,3 years,Female,Urban,Medium,Petrol,No,1 year,No,Yes
+Ford,Ranger,,4 years,Male,,High,Petrol-Hybrid,Yes,5 years,No,No
+Tata,Tiago,XZ+,2 years,Female,Urban,Medium,Petrol,No,1 year,No,Yes
+Toyota,Corolla Altis,G,4 years,Female,Urban,Medium,Petrol,No,1 year,No,Yes
+Honda,Civic,Hatchback,4 years,Female,Urban,High,Petrol,Yes,10 years,No,No
+Toyota,Rav4,LE,5 years,Female,Rural,Low,Petrol,Yes,9 years,No,No
+Lexus,RX 350,F Sport,5 years,Male,Rural,Low,Petrol,Yes,9 years,No,No
+Ford,Mustang,GT,4 years,Male,Rural,Low,Petrol,Yes,10 years,No,No
+Toyota,Camry,SE,4 years,Female,Urban,High,Petrol,Yes,8 years,No,No
+Honda,Civic,Hatchback,8 years,Female,Urban,High,Petrol,Yes,15 years,Yes,No
+Hyundai,Kona,SE,2 years,Female,Urban,Medium,Petrol,No,1 year,No,Yes
+BMW,X7,M50i,2 years,Female,Urban,High,Petrol,Yes,10 years,No,No
+Chevrolet,Malibu,LS,4 years,Female,Rural,Low,Petrol,Yes,7 years,No,No
+Mercedes-Benz,CLA,250,2 years,Male,Urban,High,Diesel,Yes,3 years,No,No
+Hyundai,i20,Magna,4 years,Female,Urban,High,Petrol,Yes,10 years,No,No
+Mazda,CX-5,Touring,1 year,Male,Urban,High,Petrol,Yes,1 year,No,No
+Aston Martin,DBX,700,4 years,Female,Urban,High,Petrol,Yes,5 years,No,No
+Honda,Pilot,LX,7 years,Female,Rural,Low,Petrol,Yes,11 years,No,No
+Volkswagen,Tiguan,S,5 years,Male,Rural,Low,Petrol,Yes,10 years,No,No
+GMC,Hummer EV,,1 year,Female,Urban,High,Electric,No,1 year,No,No
+GMC,Hummer EV,,1 year,Female,Urban,High,Electric,No,1 year,No,No
+Volkswagen,Passat,,4 years,Male,Urban,High,Diesel,Yes,6 years,No,No
+Jeep,Grand Cherokee,Limited,4 years,Male,Suburban,Medium,Petrol,Yes,5 years,No,No
+Maserati,MC20,Launch Edition,6 years,Male,Urban,High,Petrol,Yes,5 years,No,No
+Honda,Odyssey,EX-L,5 years,Male,Suburban,High,Petrol,Yes,9 years,Yes,Yes
+Chevrolet,Equinox,LS,5 years,Female,Rural,Low,Petrol,Yes,9 years,No,No
+BMW,6 Series,640i,4 years,Male,Urban,Medium,Diesel,Yes,7 years,No,No
+Kia,K5,EX,6 years,Male,Rural,Low,Petrol,Yes,5 years,No,No
+Tata,Tiago,XZ+,2 years,Female,Urban,Medium,Petrol,No,1 year,No,Yes
+Honda,Accord,Sedan,6 years,Male,Rural,Low,Petrol,Yes,5 years,No,No
+Audi,A8,3.0T,4 years,Female,Rural,Low,Petrol,Yes,8 years,No,No
+Mazda,CX-3,Sport,4 years,Female,Urban,High,Petrol,Yes,10 years,No,No
+Toyota,Tacoma,SR,6 years,Male,Rural,Low,Petrol,Yes,10 years,No,No
+Mercedes-Benz,A-Class,A 220,2 years,Male,Urban,High,Diesel,Yes,9 years,No,No
+Hyundai,i10,Magna,6 years,Male,Rural,Low,Petrol,Yes,5 years,No,No
+Dodge,Charger,GT,5 years,Male,Rural,Low,Petrol-Hybrid,Yes,10 years,No,No
+Hyundai,Ioniq 5,Limited,5 years,Female,Urban,Medium,Electric,Yes,10 years,No,No
+Maruti Suzuki,Swift,ZDi,5 years,Male,Rural,Low,Petrol,Yes,10 years,No,No
+Ford,Ranger,XLT,1 year,Female,Rural,Low,Petrol,Yes,1 year,No,No
+Mercedes-Benz,GLA,250,2 years,Male,Urban,High,Diesel,Yes,,No,No
+Toyota,Corolla,LE,5 years,Female,Rural,Low,Petrol,Yes,9 years,No,No
+Maruti Suzuki,Wagon R,LXI,3 years,Male,Rural,Low,Petrol,No,5 years,No,No
+Chevrolet,Cruze,LT,3 years,Female,Urban,High,Petrol,Yes,10 years,No,No
+Mahindra,Scorpio,S11,4 years,Female,Urban,Medium,Petrol,No,1 year,No,Yes
+Lexus,RX 350,F Sport,5 years,Male,Rural,Low,Petrol,Yes,9 years,No,No
+Honda,Pilot,EX-L,6 years,Male,Urban,Medium,Diesel,No,11 years,No,No
+Audi,A7,Sportback,2 years,Male,Urban,High,Diesel,Yes,10 years,No,No
+Kia,Niro EV,EX,1 year,Male,Rural,Low,Petrol,No,1 year,No,No
+Maruti Suzuki,Swift,ZDi,4 years,Male,Rural,Low,Petrol,Yes,10 years,No,No
+Mercedes-Benz,GLE,350e,5 years,Male,Rural,Low,Petrol-Hybrid,Yes,10 years,No,No
+Chevrolet,Camaro,2SS,3 years,Female,Urban,Medium,Petrol,No,1 year,No,Yes
+Toyota,4Runner,SR5,3 years,Male,Rural,Low,Petrol,Yes,4 years,No,No
+Hyundai,Elantra,Magna,4 years,Female,Urban,Medium,Petrol,No,1 year,No,Yes
+Volkswagen,Atlas,Cross Sport,4 years,Male,Urban,Medium,Diesel,No,7 years,No,No
+Chevrolet,Equinox,LS,5 years,,Rural,Low,Petrol,Yes,9 years,No,No
+Force Motors,Traveller,Traveller,7 years,Female,Urban,High,Diesel,Yes,15 years,Yes,No
+Mercedes-Benz,GLB,250,2 years,Male,Urban,High,Petrol,Yes,9 years,No,No
+Honda,Pilot,LX,7 years,Female,Rural,Low,Petrol,Yes,11 years,No,No
+Toyota,Rav4,LE,5 years,Female,Rural,Low,Petrol,Yes,9 years,No,No
+Audi,A6,3.0T,4 years,Male,Urban,Medium,Diesel,Yes,5 years,No,No
+Chevrolet,Bolt EUV,LT,2 years,Male,Rural,Medium,Petrol,No,1 year,No,No
+Audi,A4,2.0T,2 years,Male,Rural,Low,Petrol,Yes,3 years,No,No
+Maruti Suzuki,S-Cross,ZDi,3 years,Female,Urban,Medium,Petrol,No,1 year,No,Yes
+Volkswagen,Touareg,Executive,3 years,Male,Urban,High,Diesel,Yes,7 years,No,No
+Ford,Mustang Mach-E,,4 years,Male,Urban,High,Diesel,Yes,5 years,No,No
+Tata,Tigor EV,XZ+,3 years,Male,Rural,Low,Petrol,No,5 years,No,Yes
+Volkswagen,Tiguan,SE,4 years,Male,Urban,Medium,Diesel,No,7 years,No,No
+Honda,CR-V,EX,5 years,Female,Rural,Low,Petrol,Yes,9 years,No,No
+Nissan,Pathfinder,SL,3 years,Female,Urban,High,Petrol,Yes,10 years,No,No
+Toyota,Hilux,SR5,8 years,Female,Rural,Low,Diesel,Yes,12 years,No,No
+Maruti Suzuki,Vitara Brezza,ZDi,1 year,Female,Urban,High,Petrol,Yes,1 year,No,No
+Tata,Nexon,XZ+,4 years,Female,Urban,High,Petrol,Yes,10 years,No,No
+Mazda,MX-30,EV,3 years,Male,Rural,Low,Petrol,No,5 years,No,Yes
+Volkswagen,Passat,S,4 years,Female,Rural,Low,Petrol,Yes,7 years,No,No
+Tata,Harrier,XZ+,3 years,Male,Rural,Low,Petrol,Yes,5 years,No,No
+Mahindra,Marazzo,M8,1 year,Female,Urban,High,Diesel,Yes,1 year,No,No
+Hyundai,Kona,Magna,2 years,Female,Urban,Medium,Petrol,No,1 year,No,Yes
+Honda,Accord,LX,6 years,Male,Rural,Low,Petrol,Yes,10 years,No,No
+Chevrolet,Traverse,LT,3 years,Male,Urban,High,Petrol,Yes,4 years,No,No
+Mercedes-Benz,E-Class,E 350,,Male,Urban,High,Diesel,Yes,8 years,No,No
+Lexus,RX,450h,7 years,Female,Urban,High,Petrol-Hybrid,No,1 year,No,No
+Mahindra,XUV500,W8,5 years,Female,Urban,High,Petrol,Yes,10 years,No,No
+Mahindra,KUV100 Nxt,W6,3 years,Female,Urban,Medium,Petrol,No,1 year,No,Yes
+Toyota,4Runner,SR5,8 years,Male,Urban,Low,Diesel,No,16 years,Yes,No
+Kia,EV6,GT-Line,3 years,Male,Rural,Low,Petrol,No,5 years,No,Yes
+BMW,X3,,3 years,Male,Urban,Medium,Diesel,Yes,4 years,No,No
+Honda,Ridgeline,Black Edition,5 years,Female,Suburban,Medium,Petrol,Yes,10 years,No,No
+Audi,A4,2.0T,1 year,Female,Urban,Medium,Petrol,No,1 year,No,No
+Toyota,Supra,3,4 years,Male,Urban,Medium,Petrol,Yes,10 years,No,No
+Tesla,Cybertruck,Tri-Motor,5 years,Male,Urban,High,Petrol-Hybrid,Yes,10 years,No,No
+Mahindra,XUV500,W8,5 years,Male,Rural,Low,Petrol,Yes,10 years,No,No
+Ram,1500,Laramie,3 years,Female,Urban,High,Petrol,Yes,10 years,No,No
+Audi,Q5,2.0T,4 years,Female,Urban,Medium,Diesel,Yes,6 years,No,No
+Audi,SQ5,3.0T,4 years,Male,Urban,Medium,Diesel,Yes,6 years,No,No
+Maruti Suzuki,Ertiga,ZDi,6 years,Male,Rural,Low,Petrol,Yes,5 years,No,No
+Volkswagen,Jetta,SE,5 years,Male,Urban,High,Diesel,Yes,8 years,No,No
+Cadillac,XT6,Platinum,5 years,Male,Urban,High,Petrol,Yes,5 years,No,No
+Hyundai,Ioniq 5,SE,1 year,Female,Urban,High,Petrol-Hybrid,Yes,1 year,No,Yes
+Hyundai,Ioniq,Limited,2 years,Female,Urban,High,Petrol-Hybrid,No,1 year,No,No
+Honda,Clarity PHEV,Touring,1 year,Female,Urban,High,Petrol-Hybrid,Yes,1 year,No,Yes
+Audi,S5,3.0T,4 years,Male,Urban,Medium,Diesel,Yes,6 years,No,No
+Chevrolet,Equinox,LT,6 years,Male,Rural,Low,Petrol,Yes,10 years,No,No
+Honda,CR-V,EX,5 years,Female,Rural,Low,Petrol,Yes,9 years,No,No
+Toyota,RAV4,LE,5 years,Male,Rural,Medium,Petrol,Yes,10 years,No,No
+Mazda,Mazda3,Hatchback,5 years,Male,Rural,Low,Petrol,Yes,10 years,No,No
+Ford,Edge,SEL,6 years,Male,Rural,Low,Petrol,Yes,10 years,No,No
+GMC,Acadia,SLE,5 years,Male,Rural,Low,Petrol,Yes,10 years,No,No
+Tesla,Model 3,Long Range,1 year,Female,Urban,High,Petrol,Yes,1 year,No,No
+Tesla,Model S,Plaid,1 year,Female,Rural,Low,Petrol-Hybrid,Yes,1 year,No,Yes
+Hyundai,Ioniq,SE,7 years,Female,Urban,High,Petrol-Hybrid,No,15 years,Yes,No
+Bentley,Continental GT,Speed,4 years,Female,Urban,High,Petrol,Yes,10 years,No,No
+Ford,Transit,Passenger,6 years,Male,Urban,High,Diesel,Yes,5 years,No,No
+Toyota,Hilux,SR5,8 years,Female,Rural,Low,Diesel,Yes,12 years,No,No
+Honda,Accord,LX,6 years,Male,Rural,Low,Petrol,Yes,10 years,No,No
+Chevrolet,Camaro,LT,4 years,Male,Rural,Low,Petrol,Yes,7 years,No,No
+Toyota,Mirai,XLE,1 year,Female,Urban,High,Petrol-Hybrid,Yes,1 year,No,Yes
+Chevrolet,Equinox,LS,5 years,Female,Rural,Low,Petrol,Yes,9 years,No,No
+Hyundai,i20 N Line,Magna,1 year,Female,Urban,Medium,Petrol,Yes,1 year,No,No
+Tata,Tigor,XZ+,3 years,Male,Rural,Low,Petrol,No,5 years,No,No
+Ford,F-150,XLT,7 years,Female,Rural,Low,Diesel,Yes,11 years,No,No
+Jeep,Grand Cherokee,Limited,4 years,Female,Rural,Low,Petrol,Yes,7 years,Yes,No
+BMW,1 Series,118i,1 year,Female,Rural,Low,Petrol,Yes,1 year,No,No
+Toyota,Land Cruiser,,6 years,Male,Urban,Medium,Diesel,Yes,9 years,No,No
+Chevrolet,Camaro,LT,4 years,Female,Rural,Low,Petrol,Yes,7 years,No,No
+Chevrolet,Silverado,LTZ,6 years,Male,Rural,Low,Diesel,Yes,10 years,No,No
+Toyota,Corolla,LE,5 years,Female,Urban,High,Petrol,Yes,10 years,No,No
+Dodge,Challenger,R/T,4 years,Female,Urban,High,Petrol,Yes,15 years,Yes,No
+Lamborghini,Urus,Pearl Capsule,6 years,Male,Urban,High,Petrol,Yes,15 years,No,No
+Ford,Taurus,SE,4 years,Female,Rural,Low,Petrol,Yes,7 years,No,No
+Force Motors,Gurkha,LX,6 years,Male,Rural,Low,Diesel,Yes,5 years,No,No
+Audi,TT,2.0T,3 years,Male,Urban,Medium,Petrol,Yes,6 years,No,No
+Chevrolet,Camaro,2SS,3 years,Female,Urban,Medium,Petrol,No,1 year,No,Yes
+Toyota,4Runner,SR5,7 years,Female,Rural,Low,Petrol,Yes,15 years,No,No
+Audi,A6,3.0T,2 years,Male,Rural,Low,Petrol,Yes,3 years,No,No
+BMW,7 Series,740i,4 years,Female,Rural,Low,Petrol,Yes,8 years,No,No
+Mercedes-Benz,GLS 450,,7 years,Male,Rural,Low,Petrol,Yes,17 years,Yes,No
+Ford,Expedition,XLT,7 years,Male,Rural,Medium,Diesel,No,15 years,Yes,No
+Toyota,Camry,LE,4 years,Female,Rural,Low,Petrol,Yes,6 years,No,No
+Hyundai,Ioniq,PHEV,6 years,Male,Rural,Low,Petrol-Hybrid,Yes,5 years,No,No
+Toyota,Sequoia,Platinum,7 years,Male,Urban,Medium,Diesel,Yes,9 years,No,No
+Honda,Civic,LX,3 years,Male,Rural,Low,Petrol,Yes,5 years,No,No
+Toyota,Highlander,LE,6 years,Male,Rural,Low,Petrol,Yes,10 years,No,No
+Hyundai,Sonata,Hybrid,3 years,Female,Urban,High,Petrol-Hybrid,No,1 year,No,No
+Honda,Insight,EX,4 years,Male,Rural,Low,Petrol-Hybrid,Yes,5 years,No,No
+Tata,Nexon,XZ+,4 years,Female,Urban,High,Petrol,Yes,10 years,No,No
+Honda,CR-V,EX,5 years,Female,Rural,Low,Petrol,Yes,9 years,No,No
+Ford,Focus,SE,4 years,Male,Rural,Low,Diesel,No,7 years,No,No
+Volkswagen,Jetta,S,4 years,Male,Rural,Low,Diesel,No,7 years,No,No
+Ford,Escape,S,4 years,,Rural,Low,,Yes,7 years,No,No
+Toyota,Highlander,XLE,5 years,Male,Urban,Low,Diesel,No,9 years,No,No
+Tata,Nexon,XZ+,4 years,Female,Urban,High,Petrol,Yes,10 years,No,No
+Mahindra,KUV100 Nxt,W6,3 years,Male,Rural,Medium,Petrol,No,1 year,No,No
+Tata,Altroz,XZ+,6 years,Male,Rural,Low,Petrol,Yes,5 years,No,No
+Hyundai,Verna,Magna,3 years,Female,Urban,Medium,Petrol,No,1 year,No,Yes
+Ford,Mustang,GT,1 year,Female,Urban,Medium,Petrol,Yes,2 years,No,No
+Renault,Duster,RXZ,3 years,Female,Urban,Medium,Petrol,No,1 year,No,Yes
+Ford,Expedition,Platinum,,Male,Urban,High,Diesel,Yes,4 years,No,No
+Chevrolet,Silverado,Custom,6 years,Male,Rural,Low,Diesel,Yes,10 years,No,No
+Ford,Mustang Mach-E,,4 years,Male,,High,Diesel,Yes,5 years,No,No
+Force Motors,Traveller,Traveller,100 years,Male,Rural,Low,Diesel,Yes,5 years,No,No
+Honda,CR-V,EX,3 years,Female,Urban,High,Petrol-Hybrid,Yes,5 years,No,No
+Volkswagen,Polo,S,2 years,Female,Rural,Low,Petrol,Yes,3 years,No,No
+Honda,Civic,Hatchback,7 years,Female,Urban,High,Petrol,Yes,15 years,Yes,No
+Toyota,Corolla,SE,7 years,Female,Urban,High,Petrol,Yes,15 years,Yes,No
+Tata,Harrier,XZ+,3 years,Female,Urban,Medium,Petrol,No,1 year,No,Yes
+Acura,NSX,Type S,5 years,Male,Rural,Low,Petrol,Yes,10 years,No,No
+Hyundai,Kona,Magna,2 years,Female,Urban,Medium,Petrol,No,1 year,No,Yes
+Chevrolet,Volt,LT,2 years,Female,Urban,High,Petrol,Yes,10 years,No,No
+Honda,Accord,EX,6 years,Male,Rural,Low,Petrol,Yes,10 years,No,No
+Toyota,Highlander,LE,,Male,Urban,Medium,Diesel,Yes,9 years,No,No
+Mercedes-Benz,A-Class,A200,1 year,Female,Rural,Low,Petrol,Yes,1 year,No,No
+BMW,X5,xDrive35i,5 years,Male,Urban,Medium,Diesel,Yes,8 years,No,No
+Chevrolet,Silverado,High Country,6 years,Female,Suburban,Medium,Petrol,Yes,15 years,No,No
+Chevrolet,Camaro,LT,4 years,Male,Rural,Low,,Yes,7 years,No,No
+Honda,Civic,LX,5 years,Male,Rural,Low,Petrol,Yes,9 years,No,No
+Volkswagen,Jetta,S,2 years,Female,Rural,Low,Petrol,Yes,2 years,No,No
+Chevrolet,Cruze,LT,3 years,Female,Rural,Low,Petrol,Yes,4 years,No,No
+Mahindra,Marazzo,M8,1 year,Female,Urban,High,Diesel,Yes,1 year,No,No
+Mahindra,Bolero,SLX,6 years,Male,Rural,Low,Petrol,Yes,5 years,No,No
+Kia,Niro,LX,2 years,Female,Urban,High,Petrol-Hybrid,No,1 year,No,No
+Chevrolet,Malibu,LS,4 years,Female,Rural,Low,Petrol,Yes,7 years,No,No
+Maruti Suzuki,Swift,ZDi,5 years,Male,Rural,Medium,Petrol,Yes,10 years,No,No
+Toyota,Yaris,L,2 years,Male,Urban,Medium,Diesel,No,3 years,No,No
+Ford,Edge,SEL,3 years,Female,Urban,High,Petrol,Yes,5 years,Yes,No
+Nissan,Altima,SV,4 years,Female,Urban,High,Petrol,Yes,10 years,No,No
+Honda,CR-V,LX,3 years,Male,Rural,Low,Petrol,Yes,6 years,No,No
+Mercedes-Benz,GLC 300,4MATIC,3 years,Female,Urban,Medium,Diesel,Yes,5 years,No,No
+Mahindra,Bolero,SLX,6 years,Male,Rural,Low,Petrol,Yes,5 years,No,No
+Dodge,Durango,Citadel,6 years,Female,Suburban,Medium,Petrol,Yes,15 years,No,No
+Force Motors,Tempo Traveller,Traveller,5 years,Male,Rural,Low,Diesel,Yes,10 years,No,No
+Chevrolet,Malibu,,4 years,Male,Rural,Low,Petrol,Yes,7 years,No,No
+Tesla,Model 3,Long Range,1 year,Female,Urban,High,Electric,Yes,1 year,No,No
+Fiat,500,Pop,4 years,Male,Rural,Low,Petrol,Yes,5 years,No,No
+Hyundai,Creta,Magna,3 years,Female,Urban,Medium,Petrol,No,1 year,No,Yes
+Mazda,CX-5,Turbo,3 years,Male,Suburban,Medium,Petrol,Yes,10 years,No,No
+Ford,F-150,Raptor,5 years,Male,Urban,High,Petrol,Yes,5 years,No,No
+Maruti Suzuki,Swift,ZDi,4 years,Male,Rural,Low,Petrol,Yes,10 years,No,No
+Toyota,Prius,LE,5 years,Female,Urban,High,Petrol-Hybrid,Yes,10 years,No,No
+Mercedes-Benz,A-Class,A180d,1 year,Male,Rural,Low,Diesel,No,1 year,No,No
+BMW,X7,xDrive40i,7 years,Female,Rural,Low,Petrol,Yes,17 years,Yes,No
+Ram,1500,Laramie Longhorn,4 years,Female,Rural,Low,Petrol,Yes,5 years,No,No
+Rolls-Royce,Ghost,Black Badge,3 years,Male,Rural,Low,Petrol,Yes,15 years,No,No
+Toyota,Camry,LE,4 years,Female,Rural,Low,Petrol,Yes,6 years,No,No
+Ford,Edge,Titanium,2 years,Female,Urban,High,Petrol,Yes,15 years,Yes,No
+Toyota,Camry,SE,5 years,Female,Suburban,Medium,Petrol,Yes,15 years,No,No
+BMW,3 Series,320d,5 years,Male,Rural,Low,Diesel,No,9 years,No,No
+Volkswagen,Atlas,Cross Sport,4 years,Male,Urban,High,Diesel,Yes,7 years,No,No
+Dodge,Durango,R/T,5 years,Female,Suburban,Medium,Petrol,Yes,10 years,No,No
+Honda,Civic,LX,1 year,Male,Rural,Low,Petrol,Yes,1 year,No,No
+Honda,Accord,LX,2 years,Male,Rural,Low,Petrol,Yes,4 years,No,No
+Toyota,Corolla,SE,3 years,Female,Rural,Low,Petrol,Yes,6 years,No,No
+Nissan,Rogue,SV,3 years,Female,Urban,Medium,Petrol,No,1 year,No,Yes
+Ford,Escape,S,4 years,Female,Rural,Low,Petrol,Yes,7 years,No,No
+Fiat,500X,Sport,3 years,Male,Rural,Medium,Petrol,No,5 years,No,No
+Hyundai,i10,Magna,4 years,Male,Rural,Low,Petrol,Yes,5 years,No,No
+Toyota,Yaris,L,2 years,Female,Suburban,Medium,Petrol,Yes,4 years,No,No
+Chevrolet,Volt,LT,2 years,Female,Urban,High,Electric,Yes,10 years,No,No
+Honda,Insight,EX,3 years,Male,Rural,Low,Petrol-Hybrid,No,5 years,No,No
+Maruti Suzuki,S-Cross,ZDi,3 years,Female,Urban,Medium,Petrol,No,1 year,No,Yes
+Honda,Pilot,LX,7 years,Female,Rural,Low,Petrol,Yes,11 years,No,No
+Honda,CR-V,EX,4 years,Male,Urban,Medium,Diesel,No,7 years,No,No
+Chevrolet,Cruze,LS,4 years,Female,Rural,Low,Petrol,Yes,7 years,No,No
+BMW,1 Series,118d,2 years,Male,Rural,Low,Diesel,No,3 years,No,No
+Tata,Nexon,XZ+,4 years,Female,Urban,High,Petrol,Yes,10 years,No,No
+Ford,Escape,S,4 years,Female,Rural,Low,Petrol,Yes,7 years,No,No
+Hyundai,Creta,Magna,5 years,Male,Rural,Low,Petrol,Yes,10 years,No,No
+Mercedes-Benz,E-Class,E220d,9 years,Male,Rural,Low,Diesel,No,17 years,Yes,No
+Honda,Accord,Hybrid,6 years,Male,Rural,Low,Petrol-Hybrid,Yes,5 years,No,No
+Ford,Ranger,XL,7 years,Female,Rural,Low,Diesel,Yes,11 years,No,No
+Honda,Pilot,EX,7 years,Female,Rural,Low,Petrol,Yes,11 years,No,No
+Ferrari,Roma,296 GTS,5 years,Male,Rural,Low,Petrol,Yes,10 years,No,No
+Ford,Fusion,S,3 years,Female,Rural,Low,Petrol,Yes,4 years,No,No
+Force Motors,Traveller,Traveller,4 years,Female,Urban,High,Diesel,Yes,10 years,No,No
+Ford,F-150,Lariat,2 years,Male,Rural,Low,Petrol,Yes,5 years,No,No
+Tata,Nano,,100 years,Female,Rural,Low,Petrol,No,0 years,No,No
+Mercedes-Benz,GLC 300,,5 years,Female,Rural,Low,Petrol,Yes,11 years,No,No
+Toyota,Rav4,LE,5 years,Female,Rural,Low,Petrol,Yes,9 years,No,No
+Toyota,Tacoma,TRD Sport,2 years,Female,Urban,High,Petrol,Yes,5 years,No,No
+Toyota,Tacoma,TRD Sport,5 years,Male,Urban,Medium,Diesel,Yes,3 years,No,No
+Hyundai,i10,Magna,4 years,Male,Rural,Low,Petrol,Yes,5 years,No,No
+Dodge,Durango,R/T,2 years,Male,Suburban,Medium,Petrol,Yes,5 years,No,No
+Mercedes-Benz,GLS,450,,Male,Urban,High,Diesel,Yes,8 years,No,No
+Maruti Suzuki,Baleno,ZDi,7 years,Female,Urban,High,Petrol,Yes,15 years,Yes,No
+Mercedes-Benz,CLA,250,2 years,Male,Urban,High,Petrol-Hybrid,Yes,3 years,No,No
+Dodge,Durango,R/T,6 years,Female,Urban,High,Petrol,Yes,15 years,No,No
+Maruti Suzuki,Swift,ZDi,5 years,Female,Urban,High,Petrol,Yes,10 years,No,No
+Renault,Kwid,RXT,,Female,Urban,Medium,Petrol,No,,No,No
+Honda,Accord,LX,6 years,Male,Rural,Low,Petrol,Yes,10 years,No,No
+Chevrolet,Cruze,LS,4 years,Male,Rural,Low,Petrol,Yes,7 years,No,No
+Volvo,XC90,T8,6 years,Female,Rural,Low,Petrol-Hybrid,Yes,15 years,No,No
+Mahindra,Bolero,SLX,6 years,Male,Rural,Low,Petrol,Yes,5 years,No,No
+Toyota,Highlander,LE,6 years,Male,Rural,Low,Petrol,Yes,10 years,No,No
+Toyota,Corolla Altis,G,3 years,Female,Urban,Medium,Petrol,No,1 year,No,Yes
+Tesla,Model X,Plaid,1 year,Female,Urban,High,Electric,Yes,1 year,No,No
+Chevrolet,Camaro,LT,4 years,Male,Rural,Low,Petrol,Yes,7 years,No,No
+Audi,A6,2.0 TDI,10 years,Male,Rural,Low,Petrol,No,19 years,No,No
+Toyota,Corolla,LE,5 years,Female,Rural,Low,Petrol,Yes,9 years,No,No
+Maruti Suzuki,Wagon R,LXI,3 years,Male,Rural,Low,Petrol,No,5 years,No,No
+Chevrolet,Suburban,LT,5 years,Male,Rural,Low,Petrol,Yes,10 years,No,No
+Honda,Pilot,EX,6 years,Male,Rural,Low,Petrol,Yes,12 years,Yes,No
+Mahindra,XUV500,W8,5 years,Male,Rural,Medium,Petrol,Yes,10 years,No,No
+Mahindra,Thar,AX7,7 years,Female,Urban,High,Petrol,Yes,15 years,Yes,No
+Ford,F-150,Lariat,2 years,Female,Rural,Low,Petrol-Hybrid,Yes,5 years,No,No
+Toyota,Corolla Altis,G,6 years,Male,Rural,Low,Petrol,Yes,5 years,No,No
+Honda,Pilot,EX,7 years,Male,Rural,Low,Petrol,Yes,11 years,No,No
+Force Motors,Tempo Traveller,Traveller,5 years,Male,Rural,Low,Diesel,Yes,10 years,No,No
+Toyota,Corolla,LE,4 years,Male,Urban,High,Petrol,Yes,10 years,No,No
+Tata,Nexon,XZ+,4 years,Male,Rural,Low,Petrol,Yes,10 years,No,No
+Chevrolet,Malibu,LT,6 years,Male,Urban,High,Petrol,Yes,15 years,No,No
+Chevrolet,Camaro,LT,4 years,Female,Rural,Low,Petrol,Yes,7 years,No,No
+Honda,Ridgeline,RTL,5 years,Male,Rural,Medium,Petrol,Yes,8 years,Yes,Yes
+Nissan,Rogue,SL,4 years,Male,Urban,High,Petrol,Yes,5 years,No,No
+Toyota,Corolla,LE,4 years,Male,Urban,High,Petrol,Yes,10 years,No,No
+Tata,Nexon,XZ+,4 years,Female,Urban,High,Petrol,Yes,10 years,No,No
+Tata,Nexon,XZ+,4 years,Male,Rural,Medium,Petrol,Yes,10 years,No,No
+Toyota,Tundra,SR5,,Male,Urban,Medium,Diesel,Yes,9 years,No,No
+Subaru,Legacy,2.5i,7 years,Female,Urban,High,Petrol,Yes,15 years,Yes,No
+Volvo,XC60,Recharge,3 years,Male,Rural,Low,Petrol-Hybrid,Yes,10 years,No,No
+Toyota,Prius C,LE,3 years,Male,Rural,Low,Petrol-Hybrid,No,5 years,No,No
+BMW,X3,xDrive30i,3 years,Male,Urban,Medium,Diesel,Yes,4 years,No,No
+Toyota,Rav4,LE,5 years,Female,Rural,Low,Petrol,Yes,9 years,No,No
+Toyota,Prius,XLE,6 years,Female,Urban,High,Petrol-Hybrid,No,5 years,No,No
+Honda,Clarity,PHEV,3 years,Female,Urban,High,Petrol-Hybrid,No,1 year,No,No
+Toyota,Yaris,L,1 year,Female,Rural,Low,Petrol,Yes,2 years,No,No
+Ford,Explorer,XLT,5 years,Female,Rural,Low,Petrol,Yes,8 years,No,No
+Honda,Insight,EX,4 years,Female,Urban,High,Petrol-Hybrid,No,1 year,No,No
+Renault,Kiger,RXZ,2 years,Female,Urban,Medium,Petrol,No,1 year,No,Yes
+Chevrolet,Equinox,L,5 years,Male,Rural,Low,Petrol,Yes,10 years,No,No
+Genesis,GV70,Sport,4 years,Male,Suburban,Medium,Petrol,Yes,5 years,No,No
+Lexus,CT 200h,Luxury,3 years,Female,Urban,High,Petrol-Hybrid,No,1 year,No,No
+Jeep,Grand Cherokee L,High Altitude,5 years,Male,Urban,High,Petrol,Yes,10 years,No,No
+Ford,Escape,S,4 years,Male,Rural,Low,Petrol,Yes,7 years,No,No
+Ford,Fusion,Titanium,3 years,Female,Urban,Medium,Diesel,Yes,2 years,No,No
+Honda,CR-V,Hybrid,5 years,Male,Rural,Medium,Petrol-Hybrid,Yes,10 years,No,No
+Ford,F-150,Raptor,5 years,Male,Urban,High,Diesel,Yes,10 years,No,No
+Subaru,Impreza,2.0i,5 years,Male,Rural,Low,Petrol,Yes,10 years,No,No
+Chevrolet,Cruze,LS,1 year,Male,Rural,Low,Diesel,No,1 year,No,No
+Chevrolet,Cruze,LS,4 years,Male,Rural,Low,Petrol,Yes,7 years,No,No
+Ford,Escape,S,4 years,Male,Rural,Low,Petrol,Yes,7 years,No,No
+Ford,Ranger,XL,7 years,Female,Rural,Low,Diesel,Yes,11 years,No,No
+Chevrolet,Cruze,LS,4 years,Female,Rural,Low,Petrol,Yes,7 years,No,No
+Toyota,Land Cruiser,Prado,6 years,Male,Urban,Medium,Diesel,Yes,9 years,No,No
+Ram,Gladiator,Rubicon,3 years,Male,Rural,Low,Petrol,Yes,10 years,No,No
+Honda,Pilot,EX-L,6 years,Male,Suburban,Medium,Petrol,Yes,11 years,Yes,Yes
+BMW,i3,100Ah,3 years,Male,Rural,Low,Electric,No,5 years,No,No
+Audi,TT,2.0T,3 years,Male,Urban,Medium,Diesel,Yes,6 years,No,No
+Maruti Suzuki,Swift,ZDi,5 years,Male,Rural,Low,Petrol,Yes,10 years,No,No
+Ford,Explorer,XLT,5 years,Male,Rural,Low,Petrol,Yes,8 years,No,No
+Maruti Suzuki,Alto 800,LXI,4 years,Male,Rural,Low,Petrol,No,5 years,No,No
+Chevrolet,Traverse,LS,6 years,Female,Rural,Low,Petrol,Yes,13 years,No,No
+Honda,Fit,LX,2 years,Male,Rural,Low,Petrol,Yes,3 years,No,No
+Volvo,XC40 Recharge,P8,6 years,Male,Rural,Low,Petrol-Hybrid,Yes,15 years,No,No
+Nissan,Rogue,SL,3 years,Male,Rural,Low,Petrol,Yes,10 years,No,No
+Toyota,Corolla Altis,G,1 year,Female,Urban,High,Petrol,Yes,1 year,No,No
+GMC,Hummer EV2,,3 years,Male,Rural,Medium,Electric,No,5 years,No,No
+Subaru,WRX,STI,1 year,Female,Urban,High,Petrol,Yes,1 year,No,No
+Mazda,MX-30,Select,3 years,Male,Rural,Low,Petrol-Hybrid,Yes,10 years,No,No
+Mercedes-Benz,E-Class,E 350,4 years,Male,Urban,High,Diesel,Yes,8 years,No,No
+Jeep,Jeep Renegade,Sport,6 years,Female,Suburban,Medium,Petrol,Yes,15 years,No,No
+Mercedes-Benz,GLS,450,2 years,Male,Urban,High,Diesel,Yes,9 years,No,No
+Volvo,XC90,Recharge T8,2 years,Female,Suburban,Medium,Petrol-Hybrid,Yes,5 years,No,No
+Ford,Fiesta,SE,4 years,Female,Rural,Low,Petrol,Yes,7 years,No,No
+Nissan,Murano,SL,5 years,Male,Rural,High,Petrol,Yes,10 years,No,No
+Audi,A6,2.0 TDI,10 years,Male,Rural,Low,Diesel,No,19 years,No,No
+Honda,Pilot,LX,7 years,Male,Urban,Medium,Diesel,No,14 years,No,No
+Ford,Bronco,Wildtrak,4 years,Female,Suburban,Medium,Petrol,Yes,5 years,No,No
+Jeep,Cherokee,Trailhawk,6 years,Female,Urban,High,Petrol,Yes,15 years,No,No
+Subaru,Forester,2.5i,6 years,Male,Rural,Low,Petrol,Yes,5 years,No,No
+Audi,Q8,3.0T,7 years,Female,Rural,Low,Petrol,Yes,17 years,Yes,No
+Ford,Ranger,Wildtrak,4 years,Female,Rural,Low,Petrol,Yes,5 years,No,No
+Hyundai,Palisade,Ultimate,6 years,Female,Suburban,Medium,Petrol,Yes,10 years,No,No
+Toyota,Tacoma,TRD Pro,5 years,Male,Urban,High,Petrol,Yes,10 years,No,No
+Toyota,Sequoia,SR5,8 years,Female,Rural,Low,Petrol,Yes,18 years,No,No
+BMW,4 Series,430i,3 years,Male,Urban,Medium,Diesel,Yes,8 years,No,No
+Chevrolet,Volt,LT,2 years,Female,Urban,High,Electric,Yes,10 years,No,No
+Ford,Explorer,XLT,7 years,Female,Rural,Low,Petrol,Yes,16 years,Yes,No
+Hyundai,Ioniq 5,Limited,5 years,Female,Urban,Medium,Electric,Yes,10 years,No,No
+Chevrolet,Bolt EUV,LT,2 years,Male,Rural,Medium,Electric,No,1 year,No,No
+Toyota,bZ4X,Limited,5 years,Female,Suburban,Medium,Petrol-Hybrid,Yes,10 years,No,No
+Audi,A6,2.0T,3 years,Female,Rural,Low,Petrol,Yes,5 years,No,No
+Mercedes-Benz,B-Class,Electric Drive,3 years,Male,Rural,Low,Electric,Yes,5 years,No,No
+Audi,Q3,2.0T,4 years,Male,Urban,Medium,Diesel,Yes,7 years,No,No
+Maruti Suzuki,Alto 800,LXI,4 years,Male,Rural,Low,Petrol,No,5 years,No,No
+Aston Martin,DBS,Superleggera,5 years,Male,Suburban,Medium,Petrol,Yes,5 years,No,No
+Toyota,Corolla,LE,6 years,Male,Urban,High,Petrol,Yes,10 years,No,No
+Honda,Accord,Hybrid,6 years,Male,Rural,Low,Petrol-Hybrid,Yes,5 years,No,No
+Mahindra,KUV100 Nxt,W6,3 years,Female,Urban,Medium,Petrol,No,1 year,No,Yes
+BMW,3 Series,M3,2 years,Female,Urban,High,Petrol,Yes,5 years,No,No
+Kia,Seltos,KX1,2 years,Female,Urban,Medium,Petrol,No,1 year,No,Yes
+Chevrolet,Malibu,LS,5 years,Male,Rural,Low,Petrol,Yes,10 years,No,No
+Chevrolet,Corvette,Z06,1 year,Female,Urban,High,Petrol,Yes,1 year,No,No
+Dodge,Charger,SXT,7 years,Male,Rural,Low,Petrol,No,15 years,Yes,No
+Volvo,XC90,Recharge,5 years,Female,Suburban,Medium,Petrol-Hybrid,Yes,10 years,No,No
+BMW,7 Series,740Li,4 years,Male,Urban,Low,Diesel,Yes,9 years,No,No
+Honda,Odyssey,EX-L,7 years,Female,Urban,High,Petrol-Hybrid,No,15 years,Yes,No
+Ford,Edge,SEL,6 years,Female,Rural,Low,Petrol,Yes,13 years,No,No
+Ford,Ranger,XL,7 years,Female,Rural,Low,Diesel,Yes,11 years,No,No
+Mercedes-Benz,E-Class,E220d,9 years,Male,Rural,Low,Petrol,No,17 years,Yes,No
+Honda,Civic,LX,3 years,Male,Rural,Low,Petrol,Yes,5 years,No,No
+Ford,Explorer,Base,5 years,Female,Rural,Low,Petrol,Yes,8 years,No,No
+Mahindra,Bolero,SLX,6 years,Male,Rural,Low,Petrol,Yes,5 years,No,No
+Ford,Fiesta,S,2 years,Male,Rural,Low,Diesel,No,3 years,No,No
+Volkswagen,Golf R,Base,2 years,Male,Urban,High,Diesel,Yes,7 years,No,No
+Toyota,RAV4,Hybrid,7 years,Female,Urban,High,Petrol-Hybrid,No,15 years,Yes,No
+Honda,Accord,LX,4 years,Male,Rural,Low,Petrol,Yes,6 years,No,No
+Ford,Mustang,GT,4 years,Male,Rural,Low,Petrol,Yes,10 years,No,No
+BMW,3 Series,328i,6 years,Female,Urban,High,Petrol,Yes,15 years,Yes,No
+Toyota,Prius,LE,5 years,Male,Rural,Low,Petrol-Hybrid,Yes,10 years,No,No
+Audi,A3,1.6 TDI,2 years,Male,Rural,Low,Diesel,No,3 years,No,No
+Mercedes-Benz,S-Class,S450,4 years,Male,Rural,Low,Petrol,Yes,8 years,No,No
+Honda,CR-V,EX,5 years,Female,Rural,Low,Petrol,Yes,9 years,No,No
+Maruti Suzuki,Alto 800,LXI,1 year,Female,Urban,Medium,Petrol,Yes,1 year,No,No
+Hyundai,Elantra,GLS,2 years,Female,Rural,Low,Petrol,Yes,3 years,No,No
+Chevrolet,Volt,LT,3 years,Female,Rural,Low,Petrol,Yes,4 years,No,No
+Honda,Accord,Touring,4 years,Female,Urban,High,Petrol,Yes,5 years,No,No
+Hyundai,Ioniq,SE,1 year,Female,Urban,Medium,Electric,Yes,1 year,No,No
+Pininfarina,Battista,Anniversario,6 years,Female,Suburban,Medium,Petrol,Yes,15 years,No,No
+Chevrolet,Traverse,High Country,3 years,Male,Rural,Low,Petrol,Yes,10 years,No,No
+Chevrolet,Traverse,LT Cloth,7 years,Male,Urban,High,Diesel,No,15 years,No,Yes
+Audi,A6,2.0T,3 years,Female,Rural,Low,Petrol,Yes,5 years,No,No
+Honda,Accord,LX,6 years,Male,Rural,Low,Petrol,Yes,10 years,No,No
+Maruti Suzuki,Vitara Brezza,ZDi,1 year,Female,Urban,High,Petrol,Yes,1 year,No,No
+Dodge,Durango,RT,2 years,Female,Urban,Medium,Petrol,No,1 year,No,Yes
+Honda,Fit,LX,2 years,Male,Rural,Low,Petrol,Yes,3 years,No,No
+Mercedes-Benz,CLS,450,,Male,Urban,High,Diesel,Yes,2 years,No,No
+Kia,Forte,LX,4 years,Female,Urban,High,Petrol,Yes,10 years,No,No
+Hyundai,Palisade,SEL,5 years,Male,Rural,Low,Petrol,Yes,10 years,No,No
+Mahindra,XUV500,W8,5 years,Male,Rural,Low,Petrol,Yes,10 years,No,No
+Toyota,Avalon,TRD,4 years,Male,Urban,Medium,Diesel,Yes,10 years,No,No
+Honda,Odyssey,EX-L,7 years,Female,Urban,High,Petrol-Hybrid,No,15 years,Yes,No
+Mahindra,Scorpio,S11,4 years,Female,Urban,Medium,Petrol,No,1 year,No,Yes
+Mazda,CX-5,Turbo,4 years,Male,Urban,High,Petrol,Yes,5 years,No,No
+Toyota,Highlander,Hybrid,5 years,Male,Rural,High,Petrol-Hybrid,Yes,10 years,No,No
+Honda,Pilot,EX,7 years,Female,Rural,Low,Petrol,Yes,11 years,No,No
+Volkswagen,Polo GTI,,3 years,Male,Urban,High,Diesel,Yes,6 years,No,No
+Audi,e-tron GT,RS,2 years,Female,Urban,High,Petrol-Hybrid,Yes,5 years,No,No
+Toyota,Tacoma,SR,6 years,Male,Rural,Low,Petrol,Yes,10 years,No,No
+BMW,X5,xDrive40i,6 years,Male,Rural,Low,Petrol,Yes,14 years,No,No
+Ford,Expedition,Platinum,6 years,Male,Urban,High,Diesel,Yes,4 years,No,No
+Chevrolet,Silverado,Custom,6 years,Male,Rural,Low,Diesel,Yes,10 years,No,No
+Chevrolet,Equinox,LT,6 years,Male,Rural,Low,Petrol,Yes,10 years,No,No
+BMW,X5,xDrive35i,5 years,Male,Suburban,High,Petrol,Yes,10 years,Yes,Yes
+Toyota,Highlander,LE,4 years,Male,Rural,Low,Petrol,Yes,7 years,No,No
+Porsche,Macan,S,5 years,Male,Suburban,Medium,Petrol,Yes,10 years,No,No
+Toyota,Rav4,LE,4 years,Female,Urban,Medium,Diesel,Yes,7 years,No,No
+Honda,Clarity  PHEV Touring,,1 year,Female,Urban,High,Petrol-Hybrid,Yes,1 year,No,Yes
+Mazda,CX-3,Sport,4 years,Female,Urban,High,Petrol,Yes,10 years,No,No
+Volkswagen,Golf,GTI,2 years,Female,Urban,Medium,Petrol,Yes,10 years,No,No
+Nissan,Maxima,SL,6 years,Male,Rural,Low,Petrol,Yes,5 years,No,No
+Honda,CR-V,LX,5 years,Male,Rural,Low,Petrol,Yes,9 years,No,No
+Tata,Safari,XZ+,5 years,Male,Rural,Low,Petrol,Yes,10 years,No,No
+Volkswagen,Touareg,Executive,3 years,Male,Urban,High,Petrol,Yes,7 years,No,No
+Hyundai,Creta,Magna,3 years,Male,Rural,Medium,Petrol,No,1 year,No,No
+Ford,F-150,STX,7 years,Female,Rural,Low,Diesel,Yes,11 years,No,No
+Chevrolet,Impala,LS,4 years,Female,Rural,Low,Petrol,Yes,7 years,No,No
+BMW,5 Series,520d,9 years,Male,Rural,Low,Diesel,No,17 years,Yes,No
+Hyundai,i10,Magna,4 years,Male,Rural,Low,Petrol,Yes,5 years,No,No
+Chevrolet,Spark,LS,1 year,Male,Rural,Low,Petrol,No,1 year,No,No
+Chevrolet,Bolt EV,LT,3 years,Female,Urban,High,Electric,Yes,10 years,No,No
+Chevrolet,Bolt EUV,LT,2 years,Male,Rural,Medium,Electric,No,1 year,No,No
+Subaru,Outback,Premium,3 years,Male,Suburban,Medium,Petrol,Yes,5 years,No,No
+Tata,Nexon EV,XZ+,1 year,Female,Urban,High,Electric,Yes,1 year,No,No
+Toyota,Highlander,LE,6 years,Female,Rural,Low,Petrol,Yes,12 years,No,No
+Subaru,Outback,2.5i,4 years,Female,Urban,Medium,Petrol,No,1 year,No,Yes
+Dodge,Journey,SXT,3 years,Male,Rural,Medium,Petrol,No,5 years,No,No
+Chevrolet,Volt,LT,2 years,Female,Urban,High,Electric,Yes,10 years,No,No
+Tata,Tiago,XZ+,2 years,Female,Urban,Medium,Petrol,No,1 year,No,Yes
+Audi,e-tron,,5 years,Female,Urban,High,Electric,Yes,10 years,No,No
+Honda,Ridgeline,Black Edition,6 years,Male,Rural,Low,Petrol,Yes,15 years,No,No
+Toyota,Highlander,LE,6 years,Male,Rural,Low,Petrol,Yes,10 years,No,No
+Force Motors,Trax,CT 10,3 years,Female,Urban,Medium,Diesel,No,1 year,No,Yes
+Mercedes-Benz,C-Class,C300,4 years,Male,Rural,Low,Diesel,Yes,10 years,No,No
+Mercedes-Benz,C-Class,C180,2 years,Female,Rural,Low,Petrol,Yes,3 years,No,No
+Nissan,Rogue,SV,2 years,Female,Suburban,High,Petrol,Yes,3 years,No,No
+Honda,Accord,EX-L,3 years,Male,Urban,High,Petrol,Yes,10 years,No,No
+Toyota,Highlander,LE,5 years,Male,Urban,Medium,Diesel,Yes,9 years,No,No
+Chevrolet,Cruze,LT,7 years,Male,Rural,Medium,Diesel,No,15 years,Yes,No
+Mahindra,Thar,AX7,7 years,Female,Urban,High,Petrol,Yes,15 years,Yes,No
+Chrysler,Pacifica,Touring,5 years,Male,Rural,Low,Petrol-Hybrid,Yes,10 years,No,No
+Toyota,Fortuner,G,,Male,Urban,Medium,Petrol-Hybrid,Yes,9 years,No,No
+Hyundai,Ioniq  EV  SE,,3 years,Female,Urban,Medium,Electric,No,1 year,No,No
+Volkswagen,Golf,SE,8 years,Male,Rural,Low,Diesel,No,15 years,No,No
+BMW,5 Series,520i,3 years,Female,Rural,Low,Petrol,Yes,5 years,No,No
+Ford,Escape,SE,4 years,Female,Urban,High,Petrol,Yes,9 years,Yes,No
+Ford,Explorer,Platinum,5 years,Male,Urban,High,Diesel,Yes,10 years,No,No
+Toyota,Camry,LE,6 years,Female,Urban,Medium,Petrol,No,5 years,No,Yes
+Ford,Edge,Titanium,5 years,Female,Urban,High,Diesel,Yes,10 years,No,No
+Volkswagen,Atlas,Cross Sport,4 years,Male,Urban,High,Petrol,Yes,7 years,No,No
+Tata,Tigor,XZ+,3 years,Male,Rural,Low,Petrol,No,5 years,No,No
+Ford,Escape,SE,4 years,Female,Urban,High,Petrol,Yes,9 years,Yes,No
+Volkswagen,Arteon,SEL,3 years,Male,Urban,High,Diesel,Yes,8 years,No,No
+Tesla,Model 3,Long Range,3 years,Male,Rural,Medium,Electric,Yes,5 years,No,No
+Audi,R8,V10,5 years,Male,Urban,Medium,Diesel,Yes,5 years,No,No
+Toyota,Camry,LE,5 years,Female,Rural,Low,Petrol,Yes,9 years,No,No
+Mazda,M3,CX-5,4 years,Male,Urban,High,Petrol,Yes,10 years,No,No
+BMW,3 Series,328i,3 years,Male,Urban,Medium,Diesel,Yes,7 years,No,No
+Ford,Ranger,XLT,4 years,Male,Urban,High,Diesel,Yes,5 years,No,No
+Audi,A3,1.4T,1 year,Female,Rural,Low,Petrol,Yes,1 year,No,No
+Mazda,CX-5,Turbo,5 years,Female,Suburban,Medium,Petrol,Yes,10 years,No,No
+Volkswagen,e-Golf,,2 years,Male,Rural,Low,Electric,No,1 year,No,Yes
+Ram,Gladiator,Rubicon,4 years,Female,Suburban,Medium,Petrol,Yes,5 years,No,No
+Dodge,Charger,RT,5 years,Male,Rural,Low,Petrol,Yes,10 years,No,No
+Honda,Insight,LX,6 years,Male,Rural,Low,Diesel,No,11 years,No,No
+Toyota,Corolla,LE,5 years,Male,Rural,Low,Petrol,Yes,9 years,No,No
+Maruti Suzuki,Alto 800,LX,-1 year,Male,Urban,Low,Petrol,Yes,90 years,Yes,Yes
+Hyundai,Santa Fe,Hybrid,5 years,Male,Rural,Medium,Petrol-Hybrid,Yes,10 years,No,No
+Renault,Captur,RXZ,5 years,Male,Rural,Medium,Petrol,Yes,10 years,No,No
+Hyundai,Ioniq,Hybrid,4 years,Female,Urban,High,Petrol-Hybrid,Yes,10 years,No,No
+Hyundai,Verna,Magna,3 years,Female,Urban,Medium,Petrol,No,1 year,No,Yes
+Tesla,Model 3,Long Range,4 years,Male,Urban,High,Petrol-Hybrid,Yes,10 years,No,No
+Chevrolet,Tahoe,LS,9 years,Male,Urban,High,Diesel,No,18 years,No,Yes
+Honda,Accord,LX,6 years,Male,Rural,Low,Petrol,Yes,10 years,No,No
+Audi,Q5,2.0T,1 year,Female,Urban,Medium,Petrol,Yes,1 year,No,No
+BMW,X7,xDrive30d,8 years,Male,Urban,High,Diesel,No,16 years,Yes,Yes
+Tata,Tiago,XZ+,2 years,Female,Urban,Medium,Petrol,No,1 year,No,Yes
+BMW,4 Series,430i,3 years,Male,Urban,Medium,Petrol,Yes,8 years,No,No
+Toyota,Corolla,SE,3 years,Female,Rural,Low,Petrol,Yes,6 years,No,No
+Subaru,Crosstrek,2.0i,3 years,Female,Urban,Medium,Petrol,No,1 year,No,Yes
+Ford,Edge,SEL,6 years,Male,Rural,Low,Petrol,Yes,10 years,No,No
+Genesis,GV80,5.0 Ultimate,1 year,Female,Rural,Low,Petrol,Yes,1 year,No,No
+Audi,A4,S4,3 years,Male,Suburban,Medium,Petrol,Yes,10 years,No,No
+Mercedes-Benz,GLB,250,2 years,Male,Urban,High,Diesel,Yes,9 years,No,No
+BMW,2 Series,228i,3 years,Male,Urban,Medium,Petrol,Yes,8 years,No,No
+Chevrolet,Camaro,SS,2 years,Female,Urban,Low,Petrol,Yes,2 years,No,No
+Tata,Nexon EV,XZ+,1 year,Female,Urban,High,Electric,Yes,1 year,No,No
+Ford,Explorer,Platinum,,Male,Urban,High,Diesel,Yes,10 years,No,No
+Chevrolet,Malibu,LS,4 years,Male,Rural,Low,Petrol,Yes,7 years,No,No
+Datsun,GO,1.2L (O),6 years,Male,Rural,Low,Petrol,Yes,5 years,No,No
+Mazda,CX-30,Grand Touring,2 years,Male,Rural,Medium,Petrol-Hybrid,Yes,1 year,No,Yes
+Ford,Escape,S,5 years,Male,Rural,Low,Petrol,Yes,10 years,No,No
+Ford,Explorer,XLT,5 years,Male,Rural,Low,Petrol,Yes,8 years,No,No
+Honda,Fit,LX,1 year,Male,Rural,Low,Diesel,No,1 year,No,No
+Honda,CR-V,EX,3 years,Female,Urban,Medium,Petrol,No,1 year,No,Yes
+Tata,Nexon,XZ+,4 years,Female,Urban,High,Petrol,Yes,10 years,No,No
+Toyota,Highlander,XLE,6 years,Male,Urban,High,Petrol,Yes,15 years,No,No
+Audi,Q8,S line,6 years,Male,Rural,Low,Petrol,Yes,5 years,No,No
+BMW,3 Series,328i,6 years,Female,Urban,High,Petrol,Yes,15 years,Yes,No
+Genesis,GV80,3.5T,3 years,Female,Urban,High,Petrol,Yes,10 years,No,No
+Toyota,Camry,XLE,5 years,Male,Suburban,Medium,Petrol,Yes,10 years,No,No
+Chevrolet,Silverado,Custom,6 years,Male,Rural,Low,Diesel,Yes,10 years,No,No
+Tata,Tigor EV,XZ+,3 years,Male,Rural,Low,Electric,No,5 years,No,Yes
+Kia,EV6,Wind,1 year,Female,Urban,High,Electric,Yes,1 year,No,No
+Lamborghini,Huracan,Performante,6 years,Male,Rural,Low,Petrol,Yes,10 years,No,No
+Mahindra,Bolero,SLX,6 years,Male,Rural,Low,Petrol,Yes,5 years,No,No
+Mercedes-Benz,GLC 300,,4 years,Male,Urban,Low,Diesel,No,9 years,No,No
+Hyundai,Venue,Magna,3 years,Male,Rural,Low,Petrol,No,5 years,No,No
+Toyota,Rav4,LE,5 years,Female,Rural,Low,Petrol,Yes,9 years,No,No
+Maruti Suzuki,S-Cross,ZDi,3 years,Female,Urban,Medium,Petrol,No,1 year,No,Yes
+Honda,Insight,LX,2 years,Male,Rural,Low,Petrol-Hybrid,Yes,2 years,No,No
+Hyundai,Elantra,Magna,4 years,Female,Urban,Medium,Petrol,No,1 year,No,Yes
+Ford,F-150,Platinum,3 years,Male,Suburban,Medium,Petrol,Yes,10 years,No,No
+Force Motors,Gurkha,LX,6 years,Male,Rural,Low,Diesel,Yes,5 years,No,No
+Renault,Triber,RXZ,6 years,Male,Rural,Low,Petrol,Yes,5 years,No,No
+Subaru,Forester,2.5i,6 years,Male,Rural,Low,Petrol,Yes,5 years,No,No
+Honda,Pilot,EX-L,5 years,Male,Rural,High,Petrol,Yes,10 years,No,No
+Toyota,Corolla,SE,3 years,Female,Rural,Low,Petrol,Yes,6 years,No,No
+Mercedes-Benz,GLC,300,2 years,,Urban,High,Petrol-Hybrid,Yes,5 years,No,No
+Audi,A3,2.0T,2 years,Female,Urban,High,Petrol,Yes,3 years,No,No
+Kia,EV6,GT-Line,3 years,Male,Rural,Low,Electric,No,5 years,No,Yes
+Chevrolet,Malibu,LS,2 years,Female,Rural,Low,Petrol,Yes,2 years,No,No
+Chevrolet,Equinox,LS,5 years,Female,Rural,Low,Petrol,Yes,9 years,No,No
+Toyota,Corolla,SE,3 years,Male,Rural,Low,Petrol,Yes,6 years,No,No
+Tesla,Model S,Long Range,4 years,Male,Rural,Medium,Electric,Yes,5 years,No,No
+Ford,Focus,SE,3 years,Male,Urban,Medium,Diesel,Yes,4 years,No,No
+Audi,A4,2.0T,1 year,Female,Urban,Medium,Petrol,No,1 year,No,No
+Ford,Explorer,XLT,5 years,Female,Urban,Medium,Petrol,No,1 year,No,Yes
+Hyundai,Elantra,SE,4 years,Female,Urban,High,Petrol,Yes,10 years,No,No
+Honda,Pilot,EX,7 years,Male,Rural,Low,Petrol,Yes,11 years,No,No
+Audi,Q8,3.0 TDI,8 years,Male,Urban,Medium,Diesel,No,16 years,Yes,No
+Toyota,Camry,Hybrid,7 years,Male,Urban,High,Petrol-Hybrid,No,15 years,Yes,No
+Volkswagen,Passat,SE,3 years,Female,Urban,Medium,Petrol,Yes,7 years,No,No
+Chrysler,300,Touring,6 years,Male,Rural,Low,Petrol,Yes,5 years,No,No
+Audi,A7,3.0T,5 years,Male,Urban,High,Diesel,Yes,10 years,No,No
+Nissan,Sentra,SR,4 years,Male,Suburban,Medium,Petrol,Yes,5 years,No,No
+Tata,Tigor EV,XZ+,3 years,Male,Rural,Low,Electric,No,,No,Yes
+Mahindra,XUV500,W8,5 years,Male,Rural,Medium,Petrol,Yes,10 years,No,No
+Hyundai,i20 N Line,Magna,1 year,Female,Urban,Medium,Petrol,Yes,1 year,No,No
+Ford,Escape,SE,3 years,Male,Urban,High,Diesel,No,5 years,No,Yes
+BMW,X7,xDrive40i,7 years,Female,Rural,Low,Petrol,Yes,17 years,Yes,No
+Ford,Edge,Titanium,5 years,Male,Urban,High,Diesel,No,9 years,No,Yes
+Chevrolet,Malibu,LS,4 years,Male,Rural,Low,Diesel,No,7 years,No,No
+Bugatti,Chiron,Sport,3 years,Female,Urban,High,Petrol,Yes,10 years,No,No
+Chevrolet,Traverse,High Country,2 years,Male,Suburban,Medium,Petrol,Yes,5 years,No,No
+Honda,CR-V,EX,5 years,Female,Rural,Low,Petrol,Yes,9 years,No,No
+Hyundai,IONIQ 5,Limited,3 years,Male,Rural,Low,Electric,No,5 years,No,Yes
+Audi,Q3,2.0T,5 years,Male,Rural,Low,Petrol,Yes,11 years,No,No
+Mazda,3,Sedan,4 years,Female,Urban,High,Petrol,Yes,10 years,No,No
+Toyota,Prius,LE,5 years,Male,Rural,Low,Petrol-Hybrid,Yes,10 years,No,No
+Toyota,Hilux,SR5,8 years,Female,Rural,Low,Diesel,Yes,12 years,No,No
+BMW,M5,Competition,3 years,Male,Urban,Medium,Diesel,Yes,8 years,No,No
+Honda,Insight,EX,3 years,Female,Urban,High,Petrol-Hybrid,Yes,5 years,No,No
+Toyota,Corolla,LE,3 years,Male,Rural,Low,Diesel,No,5 years,No,No
+Jeep,Cherokee,Trailhawk,5 years,Male,Rural,Low,Petrol,Yes,10 years,No,No
+Porsche,Macan,S,5 years,Male,Suburban,Medium,Petrol,Yes,10 years,No,No
+Hyundai,i10,Magna,4 years,Male,Rural,Low,Petrol,Yes,5 years,No,No
+Maruti Suzuki,Ertiga,ZDi,6 years,Male,Rural,Low,Petrol,Yes,5 years,No,No
+Force Motors,Traveller,Traveller,4 years,Female,Urban,High,Diesel,Yes,10 years,No,No
+Hyundai,Kona Electric,Limited,4 years,Female,Urban,Medium,Electric,Yes,5 years,No,No
+Audi,Q7,3.0T,6 years,Male,Rural,Low,Petrol,Yes,14 years,No,No
+Audi,A6,3.0T,,Male,Urban,Medium,Diesel,Yes,,No,No
+Ford,F-150,STX,7 years,Male,Rural,Low,Diesel,Yes,11 years,No,No
+Honda,Accord PHEV EX,,2 years,Female,Urban,Medium,Petrol-Hybrid,No,1 year,No,No
+Chevrolet,Tahoe,LS,7 years,Female,Rural,Low,Petrol,Yes,16 years,Yes,No
+Chevrolet,Tahoe,LS,9 years,Male,Urban,High,Diesel,No,18 years,No,Yes
+BMW,X5,xDrive40i,4 years,Female,Urban,High,Petrol,Yes,15 years,Yes,No
+Hyundai,Sonata,SEL,6 years,Male,Rural,Low,Petrol,Yes,5 years,No,No
+Mercedes-Benz,GLS,580 4MATIC,3 years,Male,Suburban,Medium,Petrol,Yes,5 years,No,No
+Honda,Civic,LX,5 years,Male,Rural,Low,Petrol,Yes,9 years,No,No
+Ford,Edge,SEL,6 years,Male,Rural,Low,Petrol,Yes,10 years,No,No
+Land Rover,Discovery,HSE,6 years,Female,Urban,High,Diesel,Yes,15 years,Yes,No
+Mercedes-Benz,GLA,250,2 years,Male,Urban,High,Diesel,Yes,5 years,No,No
+Chevrolet,Tahoe,High Country,2 years,Male,Rural,Low,Petrol,Yes,5 years,No,No
+BMW,X3,sDrive30i,5 years,Male,Rural,Low,Petrol,Yes,10 years,No,No
+McLaren,720S,Spider,4 years,Male,Suburban,Medium,Petrol,Yes,5 years,No,No
+Maruti Suzuki,Swift,ZDi,5 years,Male,Rural,Low,Petrol,Yes,10 years,No,No
+Audi,Q5,3.0T,2 years,Male,Urban,Medium,Diesel,No,3 years,No,No
+Honda,Accord  PHEV EX,,2 years,Female,Urban,Medium,Petrol-Hybrid,No,1 year,No,No
+Fiat,500L,Trekking,2 years,Female,Urban,High,Petrol,No,1 year,No,No
+Volkswagen,Jetta,SE,5 years,Male,Urban,High,Diesel,,8 years,No,No
+Chevrolet,Silverado,Custom,6 years,Male,Rural,Low,Diesel,Yes,10 years,No,No
+Toyota,Supra,3,4 years,Male,Urban,Medium,Diesel,Yes,10 years,No,No
+Chevrolet,Equinox,LT,5 years,Male,Urban,High,Diesel,No,10 years,No,Yes
+Toyota,Corolla Altis,G,3 years,Female,Urban,Medium,Petrol,No,1 year,No,Yes
+Chevrolet,Malibu,LS,4 years,Male,Rural,Low,Petrol,Yes,7 years,No,No
+Honda,Insight,EX,3 years,Female,Urban,High,Petrol-Hybrid,Yes,5 years,No,No
+Volkswagen,Tiguan,SE,4 years,Male,Urban,High,Diesel,Yes,7 years,No,No
+Mahindra,XUV500,W8,5 years,Male,Rural,Low,Petrol,Yes,10 years,No,No
+Volkswagen,Golf,Trendline,2 years,Male,Rural,Low,Diesel,No,3 years,No,No
+Honda,Pilot,Touring,5 years,Male,Rural,Low,Petrol,Yes,10 years,No,No
+BMW,X5,xDrive35d,6 years,Male,Urban,High,Diesel,No,13 years,No,Yes
+Audi,A3,1.6 TDI,2 years,Male,Rural,Low,Diesel,No,3 years,No,No
+Maruti Suzuki,Alto 800,LXI,4 years,Male,Rural,Low,Petrol,No,5 years,No,No
+Chevrolet,Silverado,LT,7 years,Male,Rural,Low,Diesel,No,15 years,Yes,No
+BMW,6 Series,640i,4 years,,Urban,Medium,Diesel,Yes,7 years,No,No
+Audi,Q7,S line,4 years,Female,Urban,High,Diesel,Yes,5 years,No,No
+Chevrolet,Traverse,High Country,6 years,Male,Rural,Low,Petrol,Yes,15 years,No,No
+Mazda,CX-9,Turbo,4 years,Male,Suburban,Medium,Petrol,Yes,5 years,No,No
+Volvo,XC60,T5,3 years,Female,Urban,Medium,Petrol,No,1 year,No,No
+Toyota,4Runner,SR5,8 years,Male,Urban,Low,Diesel,No,16 years,Yes,No
+Toyota,Yaris,L,2 years,Male,Urban,Medium,Diesel,No,3 years,No,No
+Chevrolet,Bolt EV,LT,3 years,Male,Rural,Medium,Electric,No,5 years,No,No
+Nissan,Rogue,SL,2 years,Female,Urban,High,Petrol,Yes,5 years,No,No
+Kia,Telluride,X-Line,2 years,Male,Rural,Low,Petrol,Yes,5 years,No,No
+Tata,Nexon,XZ+,4 years,Female,Urban,High,Petrol,Yes,10 years,No,No
+Mercedes-Benz,GLE,450 4MATIC,4 years,Female,Urban,High,Diesel,Yes,5 years,No,No
+Honda,Civic,LX,5 years,Female,Rural,Low,Petrol,Yes,9 years,No,No
+Datsun,Redi-GO,1.0L (O),4 years,Female,Urban,High,Petrol,Yes,10 years,No,No
+Mercedes-Benz,GLE 350,,5 years,Male,Urban,Low,Diesel,No,10 years,No,No
+Toyota,Tundra,SR5,7 years,Male,Urban,Medium,Diesel,Yes,10 years,No,No
+Mahindra,Bolero,SLX,6 years,Male,Rural,Low,Petrol,Yes,5 years,No,No
+Mazda,Mazda6,Sedan,7 years,Female,Urban,High,Petrol,Yes,15 years,Yes,No
+Audi,A8,3.0T,5 years,Male,Urban,Medium,Petrol,Yes,6 years,No,No
+Ford,EcoSport,S,1 year,Female,Urban,Medium,Petrol,No,1 year,No,Yes
+Kia,EV6,GT-Line,3 years,Male,Rural,Low,Electric,No,5 years,No,Yes
+Nissan,Altima,S,3 years,Male,Rural,Low,Petrol,Yes,6 years,No,No
+Mazda,Mazda3,Hatchback,5 years,Male,Rural,Low,Petrol,Yes,10 years,No,No
+BMW,X3,xDrive30i,3 years,Male,Urban,High,Diesel,No,5 years,No,Yes
+Chevrolet,Malibu,LS,1 year,Male,Rural,Low,Petrol,Yes,1 year,No,No
+Hyundai,Elantra,Magna,4 years,Female,Urban,Medium,Petrol,No,1 year,No,Yes
+Tata,Altroz,XZ+,6 years,Male,Rural,Low,Petrol,Yes,5 years,No,No
+Chevrolet,Silverado,LT,6 years,Male,Rural,High,Diesel,Yes,12 years,Yes,Yes
+Ford,Fiesta,SE,1 year,Female,Rural,Low,Petrol,Yes,1 year,No,No
+Toyota,Tacoma,SR5,4 years,Female,Urban,Medium,Petrol,Yes,6 years,No,No
+Audi,Q5,2.0T,4 years,Female,Urban,,Diesel,Yes,6 years,,No
+Genesis,GV80,5.0 Ultimate,1 year,Female,Rural,Low,Petrol,Yes,1 year,No,No
+Volkswagen,Polo GTI,,3 years,Male,Urban,High,Diesel,Yes,6 years,No,No
+Koenigsegg,Jesko,Absolut,2 years,Male,Rural,Low,Petrol,Yes,5 years,No,No
+Audi,A7,3.0T,5 years,Male,Urban,High,Petrol-Hybrid,Yes,10 years,No,No
+Subaru,WRX,STI,1 year,Female,Urban,High,Petrol,Yes,1 year,No,No
+Ford,Bronco,Wildtrak,3 years,Male,Urban,High,Petrol,Yes,10 years,No,No
+Ford,Fusion,Titanium,3 years,Female,Urban,Medium,Diesel,Yes,2 years,No,No
+Subaru,BRZ,2.0i,3 years,Male,Rural,Low,Petrol,No,5 years,No,No
+Ford,Escape,SE,4 years,Female,Rural,Low,Petrol,Yes,7 years,No,No
+Nissan,Leaf,SV,2 years,Female,Urban,High,Electric,No,1 year,No,No
+Renault,Kwid,RXT,4 years,Female,Urban,Medium,Petrol,No,1 year,No,Yes
+Ford,Focus,SE,3 years,Male,Urban,Medium,Diesel,Yes,4 years,No,No
+Ram,1500,Laramie,3 years,Male,Urban,High,Petrol-Hybrid,Yes,10 years,No,No
+Audi,Q7,3.0 TDI,6 years,Male,Urban,Medium,Diesel,No,12 years,Yes,No
+Ford,Fiesta,SE,4 years,Female,Rural,Low,Petrol,Yes,7 years,No,No
+Toyota,Tundra,SR5,7 years,Male,Urban,Medium,Petrol,Yes,10 years,No,No
+Toyota,Tacoma,SR,6 years,Male,Rural,Low,,Yes,10 years,No,No
+Honda,Civic,Hatchback,4 years,Female,Urban,High,Petrol,Yes,10 years,No,No
+Nissan,Kicks,SV,2 years,Female,Urban,Medium,Petrol,No,1 year,No,Yes
+Honda,Pilot,LX,7 years,Female,Rural,Low,Petrol,Yes,11 years,No,No
+Honda,HR-V,EX,2 years,Female,Urban,Medium,Petrol,No,1 year,No,Yes
+BMW,i3,REx,1 year,Female,Urban,Medium,Electric,No,1 year,No,No
+BMW,5 Series,530i,,Female,Urban,Medium,Petrol-Hybrid,Yes,,No,No
+Toyota,Rav4,LE,5 years,Female,Rural,Low,Petrol,Yes,9 years,No,No
+Nissan,Leaf,SV,3 years,Male,Rural,Low,Electric,No,5 years,No,Yes
+Tata,Tiago,XZ+,2 years,Female,Urban,Medium,Petrol,No,1 year,No,Yes
+Mercedes-Benz,GLS,450,2 years,Male,Urban,High,Petrol,Yes,9 years,No,No
+Hyundai,i20,Magna,4 years,Female,Urban,High,Petrol,Yes,10 years,No,No
+Mahindra,Thar,AX7,0.02,Female,Urban,High,Diesel,No,10 years,No,No
+Chevrolet,Cruze,LT,4 years,Male,Rural,Low,Petrol,Yes,7 years,No,No
+Chevrolet,Corvette,Stingray,2 years,Female,Suburban,Medium,Petrol,Yes,5 years,No,No
+Mazda,CX-9,Touring,3 years,Female,Urban,Medium,Petrol,No,1 year,No,Yes
+Hyundai,Palisade,SEL,5 years,Male,Rural,Low,Petrol,Yes,10 years,No,No
+Toyota,Highlander,LE,3 years,Female,Urban,Low,Petrol,No,1 year,No,No
+Tesla,Model 3,Long Range,3 years,Male,Rural,Low,Electric,Yes,5 years,No,No
+Chevrolet,Bolt EV,2LT,6 years,Female,Urban,High,Petrol-Hybrid,Yes,15 years,No,No
+Mercedes-Benz,ML 350,,6 years,Female,Rural,Low,Petrol,Yes,14 years,No,No
+Hyundai,i10,Magna,6 years,Male,Rural,Low,Petrol,Yes,5 years,No,No
+Volkswagen,Atlas,Trendline,7 years,Female,Rural,Low,Petrol,Yes,16 years,Yes,No
+BMW,1 Series,118d,2 years,Male,Rural,Low,Diesel,No,3 years,No,No
+Audi,A4,2.0T,1 year,Female,Urban,Medium,Petrol,No,1 year,No,No
+Toyota,Camry,Hybrid,3 years,Female,Urban,Low,Petrol-Hybrid,No,1 year,No,No
+Chrysler,200,LX,3 years,Female,Urban,Medium,Petrol,No,1 year,No,Yes
+Jeep,Cherokee,Trailhawk,4 years,Male,Urban,High,Petrol,Yes,5 years,No,No
+Hyundai,i10,Magna,6 years,Male,Rural,Low,Petrol,Yes,5 years,No,No
+Tata,Tiago,XZ+,2 years,Female,Urban,Medium,Petrol,No,1 year,No,Yes
+Ford,Fiesta,SE,4 years,Female,Rural,Low,Petrol,Yes,7 years,No,No
+Lexus,GX,460,3 years,Male,Rural,High,Petrol,No,5 years,No,No
+Mahindra,Bolero,SLX,6 years,Male,Rural,Low,Petrol,Yes,5 years,No,No
+Toyota,Corolla,LE,5 years,Female,Urban,High,Petrol,Yes,10 years,No,No
+Ford,Edge,SEL,6 years,Male,Rural,Low,Petrol,Yes,10 years,No,No
+Volkswagen,Arteon,SEL,3 years,Male,Urban,High,Diesel,Yes,8 years,No,No
+Honda,HR-V,EX,4 years,Male,Urban,High,Petrol-Hybrid,Yes,5 years,No,No
+Kia,Telluride,EX,5 years,Male,Rural,High,Petrol,Yes,10 years,No,No
+Maruti Suzuki,Alto 800,LXI,1 year,Female,Urban,Medium,Petrol,Yes,1 year,No,No
+GMC,Yukon,SLE,4 years,Female,Urban,Medium,Petrol,No,1 year,No,Yes
+Volkswagen,Golf,SE,8 years,Male,Rural,Low,Diesel,No,15 years,No,No
+Volkswagen,Golf,GTI,2 years,Female,Urban,Medium,Petrol,Yes,10 years,No,No
+Chevrolet,Cruze,LS,4 years,Male,Rural,Low,Petrol,Yes,7 years,No,No
+Maruti Suzuki,Ciaz,ZDi,4 years,Female,Urban,Medium,Petrol,No,1 year,No,Yes
+Volkswagen,Golf GTI,SE,2 years,Male,Urban,High,Diesel,Yes,,No,No
+Toyota,Corolla,LE,5 years,Male,Rural,Low,Petrol,Yes,9 years,No,No
+Audi,A5,2.0T,3 years,,Urban,Medium,Petrol-Hybrid,Yes,4 years,No,No
+Chevrolet,Equinox,LS,5 years,Female,Rural,Low,Petrol,Yes,9 years,No,No
+Hyundai,Creta,Magna,3 years,Female,Urban,Medium,Petrol,No,1 year,No,Yes
+Mazda,M3,Mazda3,5 years,Male,Rural,Low,Petrol,Yes,10 years,No,No
+GMC,Terrain,SLE,2 years,Female,Urban,High,Petrol,Yes,15 years,Yes,No
+Kia,Sorento,EX,3 years,Female,Urban,Medium,Petrol,No,1 year,No,Yes
+Mercedes-Benz,E-Class,E350,3 years,Male,Rural,Low,Diesel,Yes,9 years,No,No
+Force Motors,Trax,CT 10,3 years,Female,Urban,Medium,Diesel,No,1 year,No,Yes
+Volkswagen,Tiguan,SE,4 years,Female,Suburban,Medium,Petrol,Yes,7 years,Yes,No
+Audi,A8,3.0T,5 years,Male,Urban,Medium,Diesel,Yes,6 years,No,No
+Genesis,GV70,3.5T Sport,4 years,Male,Urban,High,Petrol,Yes,10 years,No,No
+Volkswagen,Passat,R-Line,4 years,Male,Urban,High,Diesel,Yes,6 years,No,No
+Hyundai,Elantra,Magna,7 years,Female,Urban,High,Petrol,Yes,15 years,Yes,No
+Nissan,Altima,SL,2 years,Female,Suburban,Medium,Petrol,Yes,5 years,No,No
+GMC,Sierra 1500,SLE,7 years,Male,Rural,Low,Petrol,Yes,15 years,Yes,Yes
+BMW,5 Series,530i,3 years,Female,Urban,Medium,Diesel,Yes,9 years,No,No
+Datsun,GO+,1.2L (O),3 years,Female,Urban,Medium,Petrol,No,1 year,No,Yes
+Genesis,GV70,3.5T Prestige,4 years,Male,Urban,High,Petrol,Yes,10 years,No,No
+Subaru,Forester,XT,4 years,Female,Suburban,Medium,Petrol,Yes,6 years,No,No
+Ram,1200,Big Horn,5 years,Male,Urban,High,Petrol,Yes,10 years,No,No
+Force Motors,Traveller,Traveller,7 years,Female,Urban,High,Diesel,Yes,15 years,Yes,No
+Maruti Suzuki,Alto 800,LXI,1 year,Female,Urban,Medium,Petrol,Yes,1 year,No,No
+Mercedes-Benz,GLC,300,2 years,Female,Urban,High,Diesel,Yes,5 years,No,No
+Hyundai,Kona,EV,2 years,Female,Urban,High,Electric,Yes,1 year,No,No
+Ford,Ranger,XL,7 years,Female,Rural,Low,Diesel,Yes,11 years,No,No
+Mazda,3,Sport,5 years,Female,Urban,Medium,Petrol,No,1 year,No,Yes
+Audi,Q3,2.0T,4 years,Male,Urban,Medium,Diesel,Yes,7 years,No,No
+Volkswagen,Golf GTI,SE,2 years,Male,Urban,High,Diesel,Yes,3 years,No,No
+Tesla,Model Y,Long Range,1 year,Female,Urban,High,Electric,No,1 year,No,No
+Tata,Safari,XZ+,5 years,Male,Rural,Medium,Petrol,Yes,10 years,No,No
+Fiat,124 Spider,Abarth,3 years,Female,Urban,Medium,Petrol,No,1 year,No,Yes
+Ford,Fiesta,SE,1 year,Female,Urban,Medium,Petrol,No,1 year,No,No
+Toyota,Corolla,LE,2 years,Female,Rural,Low,Petrol,Yes,3 years,No,No
+Hyundai,Santa Fe,SEL,3 years,Female,Urban,Medium,Petrol,No,1 year,No,Yes
+Kia,Soul,+,5 years,Female,Suburban,Medium,Petrol,Yes,8 years,No,No
+Hyundai,Creta,Magna,5 years,Male,Rural,Low,Petrol,Yes,10 years,No,No
+Ford,Fiesta,SE,4 years,Female,Rural,Low,Petrol,Yes,7 years,No,No
+Audi,Q7,55 TFSI,2 years,Female,Urban,Medium,Petrol,No,1 year,No,Yes
+Toyota,Highlander,LE,6 years,Male,Rural,Low,Petrol,Yes,10 years,No,No
+Chevrolet,Silverado,Custom,6 years,Male,Rural,Low,Diesel,Yes,10 years,No,No
+Acura,MDX,SH-AWD,7 years,Male,Rural,Low,Diesel,No,15 years,Yes,No
+Volkswagen,Atlas,Trendline,7 years,Male,Urban,Medium,Diesel,No,14 years,No,No
+Kia,Niro,LX,2 years,Female,Urban,High,Petrol-Hybrid,No,1 year,No,No
+Toyota,Highlander,LE,6 years,Male,Rural,Low,Petrol,Yes,10 years,No,No
+BMW,M3,Competition,3 years,Female,Suburban,Medium,Petrol,Yes,5 years,No,No
+Honda,Pilot,LX,7 years,Female,Rural,Low,Petrol,Yes,11 years,No,No
+Nissan,Leaf,Plus,2 years,Male,Suburban,Medium,Petrol-Hybrid,Yes,5 years,No,No
+Jeep,Compass,Trailhawk,4 years,Female,Suburban,Medium,Petrol-Hybrid,Yes,5 years,No,No
+Mercedes-Benz,GLE,400,2 years,Male,Urban,High,Diesel,Yes,8 years,No,No
+Toyota,Prius Prime,Advanced,1 year,Female,Urban,High,Petrol-Hybrid,Yes,1 year,No,Yes
+Mercedes-Benz,GLE,350e,5 years,Male,Rural,Low,Petrol-Hybrid,Yes,10 years,No,No
+BMW,5 Series,530i,5 years,Female,Urban,High,Petrol,Yes,13 years,Yes,No
+Toyota,Corolla,SE,2 years,Female,Suburban,Medium,Petrol,Yes,5 years,No,No
+Hyundai,Elantra,Magna,7 years,Female,Urban,High,Petrol,Yes,15 years,Yes,No
+Ford,F-150,STX,7 years,Male,Rural,Low,Diesel,Yes,11 years,No,No
+Dodge,Dart,GT,2 years,Male,Rural,Low,Petrol,Yes,5 years,No,No
+Toyota,Corolla,Hybrid,2 years,Female,Urban,High,Petrol-Hybrid,No,1 year,No,No
+Mercedes-Benz,CLS,450,2 years,Male,Urban,High,Diesel,Yes,2 years,No,No
+Ford,Explorer,XLT,5 years,Female,Rural,Low,Petrol,Yes,8 years,No,No
+Audi,A5,2.0T,3 years,Female,Urban,Medium,Diesel,Yes,4 years,No,No
+Maruti Suzuki,Alto 800,LXI,4 years,Male,Rural,Low,Petrol,No,5 years,No,No
+Toyota,Sequoia,SR5,9 years,Male,Urban,Low,Diesel,No,18 years,No,No
+Toyota,Tacoma,TRD Pro,6 years,Male,Rural,Low,Petrol,Yes,15 years,No,No
+Audi,A4,2.0 TDI,5 years,Male,Rural,Low,Diesel,No,9 years,No,No
+Hyundai,Elantra,Magna,4 years,Female,Urban,Medium,Petrol,No,1 year,No,Yes
+Chevrolet,Cruze,LT,7 years,Male,Rural,Medium,Diesel,No,15 years,Yes,No
+Chevrolet,Volt,LT,7 years,Male,Rural,Low,Diesel,No,13 years,No,No
+Ford,Fusion,SE,7 years,Male,Rural,Low,Diesel,No,13 years,No,No
+Tesla,Model S,Performance,4 years,Male,Rural,Medium,Electric,Yes,7 years,No,No
+Force Motors,Gurkha,LX,6 years,Male,Rural,Low,Diesel,Yes,5 years,No,No
+Tata,Harrier,XZ+,3 years,Female,Urban,Medium,Petrol,No,1 year,No,Yes
+BMW,X5,xDrive35i,5 years,,Urban,Medium,Petrol-Hybrid,Yes,8 years,No,No
+Ford,Flex,Limited,5 years,Male,Urban,High,Diesel,Yes,5 years,No,No
+Toyota,Rav4,XLE,5 years,Male,Rural,Low,Petrol,Yes,9 years,No,No
+Hyundai,Venue,Magna,3 years,Male,Rural,Low,Petrol,No,5 years,No,No
+Audi,e-tron,,5 years,Female,Urban,High,Electric,Yes,10 years,No,No
+Ford,F-150,STX,7 years,Male,Rural,Low,Diesel,Yes,11 years,No,No
+Ford,Ranger,XL,7 years,Female,Rural,Low,Diesel,Yes,11 years,No,No
+Honda,Fit,LX,2 years,Male,Rural,Low,Petrol,Yes,3 years,No,No
+Volkswagen,Touareg,VR6,6 years,Female,Rural,Low,Petrol,Yes,13 years,No,No
+Ford,Edge,Titanium,,Female,Urban,High,Petrol-Hybrid,Yes,,No,No
+Tata,Tiago,XZ+,2 years,Female,Urban,Medium,Petrol,No,1 year,No,Yes
+Ferrari,488,Pista,2 years,Female,Suburban,Medium,Petrol,Yes,10 years,No,No
+Mahindra,KUV100 Nxt,W6,3 years,Female,Urban,Medium,Petrol,No,1 year,No,Yes
+Nissan,Ariya,Platinum Plus,1 year,Female,Urban,High,Electric,Yes,1 year,No,No
+Mazda,CX-30,Grand Touring,1 year,Female,Urban,High,Petrol-Hybrid,Yes,1 year,No,Yes
+Toyota,Tacoma,TRD Sport,5 years,Male,Urban,Medium,Diesel,Yes,3 years,No,No
+Chevrolet,Equinox,LT,6 years,Male,Rural,Low,Petrol,Yes,10 years,No,No
+Chevrolet,Tahoe,LT,4 years,Female,Urban,High,Petrol,Yes,15 years,Yes,No
+Toyota,Mirai,XLE,1 year,Female,Urban,High,Petrol-Hybrid,Yes,1 year,No,Yes
+Mercedes-Benz,E-Class,E200,3 years,Male,Rural,Low,Petrol,Yes,5 years,No,No
+Honda,Civic,Touring,6 years,Male,Urban,High,Petrol,Yes,15 years,No,No
+Toyota,RAV4,XLE,5 years,Male,Rural,Low,Petrol-Hybrid,Yes,10 years,No,No
+Chevrolet,Equinox,LS,1 year,Female,Suburban,Medium,Petrol,Yes,2 years,No,No
+Toyota,Hilux,SR,8 years,Female,Rural,Low,Diesel,Yes,12 years,No,No
+Honda,Civic,LX,3 years,Male,Rural,Low,Diesel,No,5 years,No,No
+Ford,Edge,SEL,6 years,Male,Rural,Low,Petrol,Yes,10 years,No,No
+Mercedes-Benz,C-Class,C220d,5 years,Male,Rural,Low,Diesel,No,9 years,No,No
+Audi,Q7,55 TFSI,2 years,Female,Urban,Medium,Petrol,No,1 year,No,Yes
+Chevrolet,Spark,LS,1 year,Male,Rural,Low,Petrol,No,1 year,No,No
+Mercedes-Benz,GLS 450,,7 years,Male,Urban,Low,Diesel,No,14 years,No,No
+Maruti Suzuki,Ciaz,ZDi,4 years,Female,Urban,Medium,Petrol,No,1 year,No,Yes
+Mercedes-Benz,C-Class,C300,4 years,Male,Rural,Low,Diesel,Yes,10 years,No,No
+Ford,Escape,SE,3 years,Male,Rural,Low,Petrol,No,10 years,No,No
+Tata,Harrier,XZ+,3 years,Male,Rural,Low,Petrol,Yes,5 years,No,No
+Mercedes-Benz,GLE,350e,5 years,Male,Rural,Low,Petrol-Hybrid,Yes,10 years,No,No
+Toyota,Hilux,SR5,8 years,Female,Rural,Low,Diesel,Yes,12 years,No,No
+BMW,iX,M60,3 years,Male,Suburban,Medium,Petrol-Hybrid,Yes,10 years,No,No
+Toyota,Corolla,LE,5 years,Male,Rural,Low,Petrol,Yes,9 years,No,No
+Ram,Gladiator,Rubicon,5 years,Male,Rural,Low,Petrol,Yes,10 years,No,No
+Chevrolet,Equinox,LT,6 years,Male,Rural,Low,Petrol,Yes,10 years,No,No
+Honda,Insight,EX,4 years,Female,Urban,High,Petrol-Hybrid,Yes,10 years,No,No
